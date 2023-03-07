@@ -1,1 +1,1 @@
-https://github.com/MatthijsvanderPlas/my-project/actions/workflows/run-rests.yaml/badge.svg
+![Run Tests Workflow](https://github.com/MatthijsvanderPlas/my-project/actions/workflows/run-rests.yaml/badge.svg?event=push)
